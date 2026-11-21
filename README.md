@@ -2,4 +2,4 @@
 
 Author: Adnan Ali Syed
 
-Solving merge conflicts is soooo much hard!
+Solving merge conflicts takes conscious effort, but I can do it!
